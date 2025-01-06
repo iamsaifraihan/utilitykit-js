@@ -89,36 +89,49 @@ This repository offers a set of versatile, standalone JavaScript utility functio
 - **[throttle](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/function/throttle)**: Limits the number of times a function can be called in a given period.
 - **[unary](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/function/unary)**: Creates a function that accepts up to one argument, ignoring any additional arguments.
 
-## Is
+### Is
 
-- **[isArray](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isArray)**: Checks if a value is an array.
-- **[isArrayLike](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isArrayLike)**: Checks if a value is array-like.
-- **[isArrayLikeObject](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isArrayLikeObject)**: Checks if a value is array-like and object as well.
-- **[isBoolean](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isBoolean)**: Checks if a value is boolean.
-- **[isDate](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isDate)**: Checks if a value is a date object.
-- **[isElement](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isElement)**: Checks if a value is a DOM element.
-- **[isEmail](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isEmail)**: Validates a string as email address.
-- **[isEmpty](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isEmpty)**: Checks if a value is an empty object, collection, map, or set.
-- **[isEven](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isEven)**: Checks if a value is even.
-- **[isFalse](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isFalse)**: Checks if a value is `false` (strict equality).
-- **[isFalsy](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isFalsy)**: Checks if a value is falsy.
-- **[isFiniteNum](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isFiniteNum)**: Checks if a value is a finite number.
-- **[isFlatArray](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isFlatArray)**: Checks if a value is a flat array.
-- **[isFunction](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isFunction)**: Checks if a value is a function.
-- **[isHexadecimal](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isHexadecimal)**: Checks if a value matches a hexadecimal regular expression.
-- **[isHexColor](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isHexColor)**: Checks if a value matches a hexadecimal color regular expression.
-- **[isInteger](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isInteger)**: Checks if a value is an integer number.
-- **[isIterable](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isIterable)**: Checks if a value is an iterable.
-- **[isMap](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isMap)**: Checks if a value is classified as a Map object.
-- **[isNaN](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isNaN)**: Determines whether the passed value is `NaN` and its type is `Number`.
-- **[isNull](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isNull)**: Checks if a value is `null`.
-- **[isNullish](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isNullish)**: Checks if a value is `null` or `undefined`.
-- **[isNumber](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isNumber)**: Checks if a value is a number.
-- \*\*[isObject](https://github.com/iamsaifraihan/utilitykit-js/tree/
+- [isArray](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isArray): Checks if a value is an array.
+- [isArrayLike](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isArrayLike): Checks if a value is array-like.
+- [isArrayLikeObject](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isArrayLikeObject): Checks if a value is array-like and object as well.
+- [isBoolean](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isBoolean): Checks if a value is boolean.
+- [isDate](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isDate): Checks if a value is a date object.
+- [isElement](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isElement): Checks if a value is a DOM element.
+- [isEmail](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isEmail): Validates a string as an email address.
+- [isEmpty](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isEmpty): Checks if a value is an empty object, collection, map, or set.
+- [isEven](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isEven): Checks if a value is even.
+- [isFalse](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isFalse): Checks if a value is `false` (strict equality).
+- [isFalsy](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isFalsy): Checks if a value is falsy.
+- [isFiniteNum](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isFiniteNum): Checks if a value is a finite number.
+- [isFlatArray](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isFlatArray): Checks if a value is a flat array.
+- [isFunction](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isFunction): Checks if a value is a function.
+- [isHexadecimal](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isHexadecimal): Checks if a value matches a hexadecimal regular expression.
+- [isHexColor](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isHexColor): Checks if a value matches a hexadecimal color regular expression.
+- [isInteger](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isInteger): Checks if a value is an integer number.
+- [isIterable](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isIterable): Checks if a value is iterable.
+- [isMap](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isMap): Checks if a value is classified as a Map object.
+- [isNaN](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isNaN): Determines whether the passed value is `NaN` and its type is `Number`.
+- [isNull](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isNull): Checks if a value is `null`.
+- [isNullish](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isNullish): Checks if a value is `null` or `undefined`.
+- [isNumber](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isNumber): Checks if a value is a number.
+- [isObject](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isObject): Checks if a value is the [language type](https://262.ecma-international.org/#sec-ecmascript-language-types) of `Object`.
+- [isObjectLike](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isObjectLike): Checks if a value is object-like. A value is object-like if it's not `null` and has a `typeof` result of "object".
+- [isOdd](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isOdd): Checks if a value is odd.
+- [isPlainObject](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isPlainObject): Checks if a value is a plain object. An object is considered plain if it's created by `{}`, `new Object()`, or `Object.create(null)`.
+- [isPrimitive](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isPrimitive): Checks if a value is a primitive data type.
+- [isPromise](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isPromise): Checks if a value is a native ES2015 Promise.
+- [isRegexp](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isRegexp): Checks if a value is a regular expression.
+- [isSafeInteger](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isSafeInteger): Checks if an integer number is in the safe range.
+- [isSet](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isSet): Checks if a value is classified as a Set object.
+- [isString](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isString): Checks if a value is a string.
+- [isSymbol](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isSymbol): Checks if a value is classified as a Symbol primitive.
+- [isTrue](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isTrue): Checks if a value is `true` (strict equality).
+- [isTruthy](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isTruthy): Checks if a value is truthy.
+- [isUndefined](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isUndefined): Checks if a value is `undefined`.
+- [isWeakMap](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isWeakMap): Checks if a value is classified as a WeakMap object.
+- [isWeakSet](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/is/isWeakSet): Checks if a value is classified as a WeakSet object.
 
 ### Math
-
-|### Math
 
 - **[average](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/math/average)**: Calculates the average of a set of numbers.
 - **[clamp](https://github.com/iamsaifraihan/utilitykit-js/tree/master/packages/math/clamp)**: Clamps number within the inclusive lower and upper bounds.
