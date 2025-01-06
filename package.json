@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "A collection of dependency-free JavaScript utilities.",
   "author": "Saif Raihan <raihan.saif28@gmail.com>",
-  "homepage": "https://github.com/georapbox/js-utils",
+  "homepage": "https://github.com/iamsaifraihan/utilitykit-js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:georapbox/js-utils.git"
+    "url": "git@github.com:iamsaifraihan/utilitykit-js.git"
   },
   "license": "MIT",
   "scripts": {
